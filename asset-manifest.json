@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Moskvin_A.V._Portfolio/static/css/main.3af82608.chunk.css",
+    "main.js": "/Moskvin_A.V._Portfolio/static/js/main.6cf868f9.chunk.js",
+    "main.js.map": "/Moskvin_A.V._Portfolio/static/js/main.6cf868f9.chunk.js.map",
+    "runtime-main.js": "/Moskvin_A.V._Portfolio/static/js/runtime-main.695d08be.js",
+    "runtime-main.js.map": "/Moskvin_A.V._Portfolio/static/js/runtime-main.695d08be.js.map",
+    "static/js/2.db5c210e.chunk.js": "/Moskvin_A.V._Portfolio/static/js/2.db5c210e.chunk.js",
+    "static/js/2.db5c210e.chunk.js.map": "/Moskvin_A.V._Portfolio/static/js/2.db5c210e.chunk.js.map",
+    "index.html": "/Moskvin_A.V._Portfolio/index.html",
+    "precache-manifest.56a4ac23f7dd7206494d311f7ca1e966.js": "/Moskvin_A.V._Portfolio/precache-manifest.56a4ac23f7dd7206494d311f7ca1e966.js",
+    "service-worker.js": "/Moskvin_A.V._Portfolio/service-worker.js",
+    "static/css/main.3af82608.chunk.css.map": "/Moskvin_A.V._Portfolio/static/css/main.3af82608.chunk.css.map",
+    "static/js/2.db5c210e.chunk.js.LICENSE.txt": "/Moskvin_A.V._Portfolio/static/js/2.db5c210e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.695d08be.js",
+    "static/js/2.db5c210e.chunk.js",
+    "static/css/main.3af82608.chunk.css",
+    "static/js/main.6cf868f9.chunk.js"
+  ]
+}
