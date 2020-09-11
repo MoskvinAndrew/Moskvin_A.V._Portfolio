@@ -1,0 +1,25 @@
+.blockContainer{
+    /*border:2px solid red;*/
+    background-color: #c6c6c2;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+}
+.contentContainer{
+    /*border:1px solid black;*/
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 40px;
+
+}
+.contentContainer button{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.contentContainer .text{
+    margin: 0 auto;
+}

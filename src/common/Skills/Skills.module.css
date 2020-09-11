@@ -1,0 +1,32 @@
+.container{
+    /*border:2px solid yellow;*/
+    background-color: #c6c6c2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.contentContainer{
+    /*border: 2px solid blue;*/
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.blockName{
+    /*border: 2px solid blue;*/
+    margin-top: 20px;
+
+}
+.skillExample{
+    /*border: 2px solid blueviolet;*/
+    display: flex;
+    flex-direction: row;
+
+}

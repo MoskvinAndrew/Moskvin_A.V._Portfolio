@@ -1,0 +1,11 @@
+.BlockContainer{
+    /*border:2px solid green;*/
+    background-color: #c6c6c2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+}
+.text{
+    width: 300px;
+}

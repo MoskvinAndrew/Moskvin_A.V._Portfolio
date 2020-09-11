@@ -1,0 +1,16 @@
+.topOfExampleBlock{
+    display: flex;
+    flex-direction: column;
+}
+.topOfExampleBlock img{
+    margin: 0 auto;
+    width: 70%;
+}
+.topOfExampleBlock button{
+    width: 50%;
+    margin: 0 auto;
+}
+.bottomOfExampleBlock{
+    width: 60%;
+    margin: 0 auto;
+}

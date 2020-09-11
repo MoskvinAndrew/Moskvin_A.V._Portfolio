@@ -1,0 +1,19 @@
+.BlockContainer{
+    /*border:2px solid red;*/
+    display: flex;
+    flex-direction: column;
+}
+.logoName{
+    /*border:2px solid #2dac45;*/
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.logoName img{
+    display: flex;
+    margin: 0 auto;
+
+}
+.description{
+    /*border:2px solid #110808;*/
+}
