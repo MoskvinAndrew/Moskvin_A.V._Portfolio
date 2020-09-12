@@ -1,11 +1,18 @@
 .BlockContainer{
     /*border:2px solid green;*/
     background-color: #c6c6c2;
-    height: 100vh;
+    /*height: 100vh;*/
     display: flex;
     justify-content: center;
 
 }
-.text{
+.contentContainer{
+    flex-wrap: wrap;
+}
+.text {
     width: 300px;
+}
+.photo{
+    width: 300px;
+
 }

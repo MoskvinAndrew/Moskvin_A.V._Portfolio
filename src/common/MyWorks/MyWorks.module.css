@@ -1,7 +1,7 @@
 .container{
     /*border:2px solid yellow;*/
     background-color: #c6c6c2;
-    height: 100vh;
+    /*height: 100vh;*/
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -26,4 +26,5 @@
     flex-direction: row;
     width: 80%;
     justify-content: space-around;
+    flex-wrap: wrap;
 }

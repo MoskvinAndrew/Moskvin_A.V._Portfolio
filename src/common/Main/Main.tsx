@@ -15,9 +15,9 @@ const Main = () => {
                 <p>I'm front-end developer.</p>
             </div>
 
-            <div className={MainStyle.photo}>
-                <img src={'https://st.kp.yandex.net/images/actor_iphone/iphone360_6264.jpg'}></img>
-            </div>
+
+                <img className={MainStyle.photo} src={'https://st.kp.yandex.net/images/actor_iphone/iphone360_6264.jpg'}/>
+
 
             </div>
         </div>
